@@ -20,27 +20,27 @@ h1 {
   font-size:23px;
 }
 
-textstyle {
+#textstyle {
   text-align:center;
   color:#245DBE;
   font-size:18px;
 }
 
-textstyle1 {
+#textstyle1 {
   text-align:left;
   color:#ff00ff;
   font-size:18px;
   font-family:"Courier";
 }
 
-textstyle2 {
+#textstyle2 {
   text-align:left;
   color:#8b0000;
   font-size:18px;
   font-style:italic;
 }
 
-textstyle3 {
+#textstyle3 {
   text-align:left;
   color:#00ff00;
   font-size:18px;
