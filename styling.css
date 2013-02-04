@@ -30,7 +30,7 @@ h1 {
   font-family:"Courier";
 }
 
-textstyle {
+#textstyle {
   text-align:left;
   color:#00ff00;
   font-size:18px;
