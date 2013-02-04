@@ -26,6 +26,13 @@ p.textstyle {
   font-size:18px;
 }
 
+ul.textstyle {
+  text-align:left;
+  color:#245DBE;
+  font-size:18px;
+}
+
+
 #textstyle1 {
   text-align:left;
   color:#ff00ff;
