@@ -20,7 +20,7 @@ reshead {
   font-size:23px;
 }
 
-#textstyle {
+p.textstyle {
   text-align:left;
   color:#245DBE;
   font-size:18px;
