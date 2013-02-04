@@ -13,7 +13,7 @@ h1 {
   font-size:35px;
 }
 
-reshead {
+h2 {
   text-align:left;
   font-weight:bold;
   color:#0000ff;

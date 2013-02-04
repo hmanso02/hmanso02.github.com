@@ -9,30 +9,30 @@
 <h1>Hamid's Resume</h1>
 
 
-<reshead>
-Name: </reshead> 
+<h2>
+Name: </h2> 
 Hamid Mansoor <br>
 
-<reshead>
+<h2>
 Education:
-</reshead>
+</h2>
 <p class="textstyle">
 Tufts University<br>
 Computer Science <br>
 Class of 2014<br>
 </p>
 
-<reshead>
+<h2>
 Relevant Coursework:<br>
-</reshead>
+</h2>
 <p class="textstyle">
 Machine Structure and Assembly Language Programming, Data strucures, <br> 
 Object Oriented Programming for Graphical User Interfaces <br>
 </p>
 
-<reshead>
+<h2>
 Professional Experience:
-</reshead>
+</h2>
 <p class="textstyle">
 <ul>
 <li>Front desk receptionist at Tisch Library, January 2012-Present</li>
@@ -40,17 +40,17 @@ Professional Experience:
 </ul>
 </p>
 <p class="textstyle">
-<reshead>
+<h2>
 Skills:
-</reshead>
+</h2>
 <p class="textstyle">
 Programming Languages: C, C++, Java, VBA, HTML, VHDL <br>
 Operating Systems: Mac OS, Linux(Ubuntu, RedHat), Windows
 </p>
 <p class="textstyle">
-<reshead>
+<h2>
 Activities:
-</reshead>
+</h2>
 <p class="textstyle">
 <ul>
 <li>Tufts Asscociation of South Asians</li>
